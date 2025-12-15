@@ -1,0 +1,26 @@
+
+# For Chinuu 💕
+
+A special website created for Srishti.
+
+## Live Demo
+
+🔗 **[Visit Site](https://for-preetygirl.vercel.app/)**
+
+## Features
+
+- Beautiful animated characters
+- Romantic Haseen song lyrics
+- Interactive reveal animation
+- Personalized message
+
+## Tech Stack
+
+- Next.js
+- Framer Motion
+- React
+- Tailwind CSS
+
+---
+
+Made with ❤️ by YOUR LOVER
